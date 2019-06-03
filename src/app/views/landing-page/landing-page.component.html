@@ -1,0 +1,2 @@
+<unauthenticated-view *ngIf="!authenticatedUID"></unauthenticated-view>
+<authenticated-view *ngIf="authenticatedUID&&userLocal" [userLocal]="userLocal"></authenticated-view>
