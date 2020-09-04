@@ -47,7 +47,7 @@
     "ngx-infinite-scroll": "^7.0.1",
     "ngx-moment": "^3.0.1",
     "ngx-pipes": "^2.5.0",
-    "node-sass": "4.11.0",
+    "node-sass": "4.13.1",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
     "rxjs-tslint": "^0.1.6",
